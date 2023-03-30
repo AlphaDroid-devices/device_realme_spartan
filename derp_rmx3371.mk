@@ -14,6 +14,9 @@ $(call inherit-product, device/realme/rmx3371/device.mk)
 # Inherit some common DerpFest stuff.
 $(call inherit-product, vendor/derp/config/common_full_phone.mk)
 
+# Rom Stuff
+EXTRA_UDFPS_ANIMATIONS := true
+
 PRODUCT_NAME := derp_rmx3371
 PRODUCT_DEVICE := rmx3371
 PRODUCT_MANUFACTURER := realme
