@@ -8,7 +8,7 @@
 
 set -e
 
-DEVICE=rmx3371
+DEVICE=spartan
 VENDOR=realme
 
 # Load extract_utils and do some sanity checks
