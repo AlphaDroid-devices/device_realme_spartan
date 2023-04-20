@@ -87,7 +87,7 @@ vendor.voice.path.for.pcm.voip=true
 
 # Bluetooth
 bluetooth.device.class_of_device=90,2,12
-bluetooth.device.default_name=realme GT NEO 3T
+bluetooth.device.default_name=spartan
 bluetooth.hardware.power.idle_cur_ma=6
 bluetooth.hardware.power.operating_voltage_mv=3700
 bluetooth.hardware.power.rx_cur_ma=28
@@ -222,7 +222,7 @@ persist.vendor.sensors.sync_request=true
 # USB
 vendor.usb.diag.func.name=diag
 vendor.usb.dpl.inst.name=dpl
-vendor.usb.product_string=realme GT NEO 3T
+vendor.usb.product_string=spartan
 vendor.usb.qdss.inst.name=qdss
 vendor.usb.rmnet.func.name=gsi
 vendor.usb.rmnet.inst.name=rmnet
