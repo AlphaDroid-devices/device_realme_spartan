@@ -18,6 +18,7 @@ $(call inherit-product, vendor/derp/config/common_full_phone.mk)
 DERP_BUILDTYPE := Official
 EXTRA_UDFPS_ANIMATIONS := true
 USE_LEGACY_BOOTANIMATION := true
+TARGET_NOT_USES_BLUR := true
 
 PRODUCT_NAME := derp_spartan
 PRODUCT_DEVICE := spartan
