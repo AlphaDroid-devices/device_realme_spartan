@@ -180,6 +180,10 @@ PRODUCT_PACKAGES += \
     android.hardware.drm@1.3.vendor \
     android.hardware.drm-service.clearkey
 
+# Gms
+PRODUCT_PACKAGES += \
+    RemovePackagesGms    
+
 # fastbootd
 PRODUCT_PACKAGES += \
     android.hardware.fastboot@1.1-impl.custom \
