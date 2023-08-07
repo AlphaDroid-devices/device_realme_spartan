@@ -36,7 +36,7 @@ TARGET_INCLUDE_MATLOG := false
 TARGET_DEFAULT_ADB_ENABLED := true
 
 # Maintainer
-ALPHA_BUILD_TYPE := Unofficial
+ALPHA_BUILD_TYPE := Official
 ALPHA_MAINTAINER := Amrutesh
 
 PRODUCT_NAME := lineage_spartan
